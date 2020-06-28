@@ -1,0 +1,82 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+nav{
+    border-bottom: 2px solid #F9F9F9;
+}
+
+.bg1{
+    margin-top: 30px;
+    margin-bottom: 100px; 
+}
+
+.text-book{
+    font-size: 16px;
+    line-height: 30px;
+}
+
+.hr1{
+    top: 0;
+    right: 0;
+    width: 15%;
+    border-top: 4px solid #0052FF;
+    border-right: 4px solid #0052FF;
+    height: 25%;
+    margin-top: 50px;
+    margin-right: 60px;    
+}
+
+.hr2{
+    bottom: 0;
+    left: 0;
+    width: 15%;
+    border-bottom: 4px solid #0052FF;
+    border-left: 4px solid #0052FF;
+    height: 25%; 
+    margin-bottom: -16px;
+    margin-left: 1px;
+}
+
+
+.child{
+    padding-top: 1rem;
+    padding-right: 0.2rem;
+}
+/*
+.hr3{
+    top: 0;
+    right: 0;
+    width: 20%;
+    border-top: 4px solid #0052FF;
+    border-right: 4px solid #0052FF;
+    height: 30%;
+    margin-top: 55px;
+    margin-right: 1px;    
+}*/
+
+.hr4{
+    bottom: 0;
+    left: 0;
+    width: 15%;
+    border-bottom: 4px solid #0052FF;
+    border-left: 4px solid #0052FF;
+    height: 30%; 
+    margin-bottom: -11px;
+    margin-left: 5px;
+}
+
+
+.child1{
+    padding-top: 1rem;
+    padding-right: 0.2rem;
+}
+
+footer{
+        background-color: #0052FF;
+        color: white;
+        font-size: 12px;
+        line-height: 30px;
+        padding: 20px 40px;
+}
